@@ -1,0 +1,28 @@
+{
+  "name": "nodecluster",
+  "version": "0.0.1",
+  "description": "its the way node uses cluster module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prokopis3/nodecluster.git"
+  },
+  "keywords": [
+    "node",
+    "cluster",
+    "multiclustering",
+    "docker",
+    "nginx",
+    "cluster",
+    "scaling"
+  ],
+  "author": "Antoniadis Prokopios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prokopis3/nodecluster/issues"
+  },
+  "homepage": "https://github.com/prokopis3/nodecluster#readme"
+}
